@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47j1r7ujfc2r75x2zj6zl0kzt3clytf3yyqf1uetbc&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamishra1234&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra1234" /> </p>
 
-- 🌱 I’m currently learning **Android Studio, Kotlin**
+- 🌱 I’m currently learning **Android Studio, Java & Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://adityamishra1234.github.io/adityaportfolio1/](https://adityamishra1234.github.io/adityaportfolio1/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eAytH7F3Hy-cJZ9bGB-oGnDePsJyPMyC/view?usp=sharing](https://drive.google.com/file/d/1eAytH7F3Hy-cJZ9bGB-oGnDePsJyPMyC/view?usp=sharing)
 
-- ⚡ Fun fact **They think I am funny, but I am not.**
+- ⚡ Fact **I notice alot. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
